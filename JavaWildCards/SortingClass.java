@@ -17,7 +17,7 @@ import java.util.List;
     // it will be replaced by the "Object" class and "int" does not extend "Object" but "Integer" does
 
 public class SortingClass{
-    public List<?> sort(List<? extends Number >unsortedList) {
+    public void sort(List<? extends Number >unsortedList) {
         // "extends Number" = bounded wildcards
         // List<Integer> = does the sorting
         // (List<Integer> unsortedList) returned the soredList
