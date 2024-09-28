@@ -1,8 +1,7 @@
-package JavaCollections;
+package JavaCollectionFrameWork;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.ListIterator;
 
 public class ListDemo {
     public static void main(String[] args) {

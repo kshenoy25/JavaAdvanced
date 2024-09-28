@@ -1,4 +1,4 @@
-package JavaCollections;// Java program to demonstrate the
+package JavaCollectionFrameWork;// Java program to demonstrate the
 // working of ArrayList
 import java.util.*;
 

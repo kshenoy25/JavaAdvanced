@@ -1,4 +1,4 @@
-package JavaCollections;
+package JavaCollectionFrameWork;
 
 import java.util.ArrayDeque;
 

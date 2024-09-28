@@ -1,4 +1,4 @@
-package JavaCollections;
+package JavaCollectionFrameWork;
 
 public class Main {
     // any group of individual objects that are represented as a single unit is known as a Java Collection of Objects

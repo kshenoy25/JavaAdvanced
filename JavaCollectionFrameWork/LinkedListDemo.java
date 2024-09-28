@@ -1,6 +1,5 @@
-package JavaCollections;// Java program to demonstrate the
+package JavaCollectionFrameWork;// Java program to demonstrate the
 // working of LinkedList
-import java.io.*;
 import java.util.*;
 
 class LinkedListDemo {

@@ -1,8 +1,7 @@
-package JavaCollections;
+package JavaCollectionFrameWork;
 
 // Java program to demonstrate
 // why collection framework was needed
-import java.io.*;
 import java.util.*;
 
 class CollectionDemo {
