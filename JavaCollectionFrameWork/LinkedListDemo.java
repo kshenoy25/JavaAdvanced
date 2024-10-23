@@ -4,7 +4,7 @@ import java.util.*;
 
 class LinkedListDemo {
 
-    // Main Method
+    // JavaWhizLabs.Main Method
     public static void main(String[] args)
     {
 

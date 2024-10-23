@@ -4,7 +4,7 @@ import java.util.*;
 
 class  ArrayListDemo {
 
-    // Main Method
+    // JavaWhizLabs.Main Method
     public static void main(String[] args)
     {
 
