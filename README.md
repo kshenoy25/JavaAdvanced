@@ -9,3 +9,6 @@ This repository is dedicated to advanced Java programming topics and techniques.
 🔹 Advanced data structures and problem-solving
 
 Ideal for developers looking to enhance their Java expertise and tackle sophisticated programming challenges. 🌟👨‍💻👩‍💻
+
+🎓 Learning Resource:
+All of this is built while following the amazing BroCode YouTube channel! 📺✨
